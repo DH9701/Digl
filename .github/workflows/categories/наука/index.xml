@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Наука on Кросс / Хьюго Шаблон Портфолио</title>
+    <link>/categories/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/</link>
+    <description>Recent content in Наука on Кросс / Хьюго Шаблон Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ВНИМАНИЕ!!! Найден новый вид коалы!!!</title>
+      <link>/post/ya-ne-znayu-cto-eto/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ya-ne-znayu-cto-eto/</guid>
+      <description>Внимание новый вид коалы найден в интернете, его назвали “Коала-отфотошопленная”</description>
+    </item>
+    
+  </channel>
+</rss>
